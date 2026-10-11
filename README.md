@@ -7,10 +7,10 @@ Comprehensive sales data analysis and interactive dashboard built with Excel and
 
 | Achievement | Details |
 |-------------|---------|
-| **Timeframe** | 3-month sales data analysis |
-| **Data Volume** | 10,000+ transactions processed |
-| **Metrics Tracked** | 15+ KPIs including revenue, growth, margins |
-| **Dashboard Views** | 3 views: Executive Summary, Regional Performance, Product Details |
+| Timeframe | 3-month sales data analysis |
+| Data Volume | 10,000+ transactions processed |
+| Metrics Tracked | 15+ KPIs including revenue, growth, margins |
+| Dashboard Views | 3 views: Executive Summary, Regional Performance, Product Details |
 
 ## Key Features
 
@@ -35,10 +35,12 @@ Comprehensive sales data analysis and interactive dashboard built with Excel and
 ## Technical Stack
 
 ### Tools & Techniques
-- **Data Transformation**: Excel Power Query for ETL processes
-- **Calculations**: DAX measures for custom KPIs
-- **Visualizations**: Bar charts, line graphs, scatter plots, slicers
-- **Interactivity**: Drill-through pages, cross-filtering, tooltips
+| Tool | Purpose |
+|------|---------|
+| Excel Power Query | Data transformation and ETL processes |
+| DAX Measures | Custom KPI calculations |
+| Charts & Graphs | Visualizations (bar, line, scatter, pie) |
+| Slicers & Filters | Interactivity through drill-through pages |
 
 ### Workflow
 1. Raw sales data imported to Excel
