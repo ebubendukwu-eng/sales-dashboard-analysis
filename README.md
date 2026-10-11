@@ -3,6 +3,10 @@
 ## Overview
 Comprehensive sales data analysis and interactive dashboard built with Excel and Power BI. This project showcases the ability to transform raw transactional data into actionable business intelligence for stakeholders and leadership teams.
 
+![Pharmacy Dashboard Template](dashboard.png)
+
+> **Note:** This is a template mockup demonstrating dashboard design principles. Actual analysis screenshots will be added upon completion of hands-on projects with real datasets.
+
 ## Project Highlights
 
 | Achievement | Details |
@@ -91,7 +95,7 @@ Comprehensive sales data analysis and interactive dashboard built with Excel and
 ## Related Projects
 
 See my other work on GitHub:
-- 🏪 Pharmacy Inventory & Sales Analysis
+- 🏪 [Pharmacy Inventory & Sales Analysis](../Pharmacy-Inventory-Sales-Analysis)
 - 📄 Full Profile README
 
 ## Contact
